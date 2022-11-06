@@ -1,6 +1,3 @@
-Temario
-
-1.-Introducción
 # Temario
 
 ## 1.-Introducción
