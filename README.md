@@ -2,11 +2,11 @@
 
 ## 1.-Introducción
 
-Conceptos
-Objetivos
-Herramientas
-Versionado
-Calidad del Software
+- Conceptos
+- Objetivos
+- Herramientas
+- Versionado
+- Calidad del Software
 
 ## 2.- Pruebas
 Tipos de pruebas
