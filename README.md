@@ -1,3 +1,7 @@
+## SESIÓN 6
+
+https://transcripts.gotomeeting.com/#/s/97c2e31bd121516e2321a3575886f77bf055ee059eb2b3fa01ea352b6e7411ba
+
 # Temario
 
 ## 1.-Introducción
